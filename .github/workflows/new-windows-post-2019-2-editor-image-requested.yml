@@ -20,7 +20,7 @@ on:
         default: '6eacc8284459'
       repoVersionFull:
         description: 'All digits of the latest tag of this repository, e.g. `1.23.45`'
-        default: 1.0.0
+        default: 1.0.1
         required: true
       repoVersionMinor:
         description: 'Minor digit of that tag, e.g. `23`'

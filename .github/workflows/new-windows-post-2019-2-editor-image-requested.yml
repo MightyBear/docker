@@ -45,7 +45,7 @@ jobs:
       matrix:
         targetPlatform:
           # - base
-          - webGL
+          - webgl
           # - universal-windows-platform
           # - appletv
           # - lumin # TODO: Determine if we can build for lumin. Requires 3rd party SDK with several versions
